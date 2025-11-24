@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! 
 
 ## About Me
-I have experience in .
+I am a Computer Science Postgraduate paasionate about software development and research. I specialize in PHP,Wordpress,Codeigniter and MERN stack development and enjoy building real-world solutions.
 
 ## Skills
 - WORDPRESS, HTML,CSS
